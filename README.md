@@ -2,7 +2,7 @@
 
 <li>Bu proje online olarak Dijital para takip sisteminden oluşur.</li>
 <li>Sistemde coin ismi,resmi,fiyatı,detayı ve anlık olarak değişen verilere grafik değerlerine ulaşabilirsiniz.</li>
-<li>Her bir coin'in döviz cinsinden değerine mevcuttur.</li>
+<li>Her bir coin'in döviz cinsinden değeri mevcuttur.</li>
 <li>Kullanıcı dostu responsive tasarımı vardır.</li>
 
 # Kullanılan Teknolojiler 🎨
